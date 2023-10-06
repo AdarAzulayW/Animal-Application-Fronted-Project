@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Our Final App</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="not_yet_registered_sign_up">Not yet registered? Sign Up</string>
+    <string name="forgot_password">Forgot Password?</string>
+    <string name="password">Password</string>
+</resources>
